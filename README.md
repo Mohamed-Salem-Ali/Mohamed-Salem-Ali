@@ -29,9 +29,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mohamed-Salem-Ali&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Salem-Ali&theme=dark" alt="streak"/> <br>
