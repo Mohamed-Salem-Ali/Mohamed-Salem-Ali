@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif--](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif) -->
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/mohamed-salem-ali/)">
+  <a href="https://www.linkedin.com/in/mohamed-salem-ali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
