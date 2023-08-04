@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Mohamed-Salem-Ali/Mohamed-Salem-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
-<!--https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif-->
+<!--[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif--](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif) -->
