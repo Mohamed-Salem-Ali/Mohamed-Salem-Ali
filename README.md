@@ -76,7 +76,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Salem-Ali&theme=dark" alt="streak"/> <br>
   <a href="https://github.com/Mohamed-Salem-Ali">
-    <img height="150em" src="https://github-readme-stats-nu-flax-54.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Salem-Ali&theme=react&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Salem-Ali&theme=react&layout=compact"/>
   </a> 
 </p>
+
+
