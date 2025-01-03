@@ -72,9 +72,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :chart_with_upwards_trend: GitHub Stats:
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-Salem-Ali&theme=dark)](https://git.io/streak-stats)
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-Salem-Ali)](https://git.io/streak-stats)
   <a href="https://github.com/Mohamed-Salem-Ali">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Salem-Ali&theme=react&layout=compact"/>
