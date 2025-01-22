@@ -27,9 +27,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mohamed-salem-ali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mohamed_salem_ali@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
 </div>
 
 <div align="center">
