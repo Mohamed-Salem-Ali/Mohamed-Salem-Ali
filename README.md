@@ -37,47 +37,38 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-### :man_technologist: About Me :
-
+👨‍💻 About Me:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cairo, Egypt.
 
-- :telescope: I’m currently working as a Software Engineer and contributing to both frontend and backend for building web applications.
-- :seedling: I’m exploring Technical Content Writing.
-- :zap: In my free time, I enjoy solving problems on HackerRank and LeetCode, and reading tech articles.
-- :soccer: I love football and support Zamalek and Real Madrid.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MohamedSalemAli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salem-ali/)
+🌍 Currently working as a Backend Developer, building robust web applications and contributing to scalable architectures.
+🚀 Exploring advanced concepts like cloud computing, containerization, and system design.
+✍️ Writing technical documentation and exploring Technical Content Creation.
+💡 Passionate about solving complex problems on HackerRank and LeetCode.
+⚽ Football enthusiast: Zamalek and Real Madrid supporter.
+📬 How to reach me:
+🛠️ Languages & Tools:
+<div> <!-- Programming languages --> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; <!-- Frameworks & libraries -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
 
----
+<!-- Databases -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> 
 
-### :hammer_and_wrench: Languages & Tools :
+<!-- Tools -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
+📊 GitHub Stats:
 
----
 
-### :chart_with_upwards_trend: GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed-Salem-Ali&theme=dark)](https://git.io/streak-stats)
-<p align="center">
-  <a href="https://github.com/Mohamed-Salem-Ali">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Salem-Ali&theme=react&layout=compact"/>
-  </a> 
-</p>
+<p align="center"> <a href="https://github.com/Mohamed-Salem-Ali"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Salem-Ali&theme=react&layout=compact"/> </a> </p>
+✨ Recent Projects:
+NestJS Backend with Real-Time Chat
 
+Built scalable APIs and implemented real-time chat features using NestJS, Socket.IO, and PostgreSQL.
+Deployed on AWS ECS with RDS for persistent storage.
+NMS_Collector
+
+Developed the data collection layer for a Network Monitoring System.
+Automated internet speed tests and device counts using Python and Docker.
+Integrated logging, environment management, and modular repository structure.
 
