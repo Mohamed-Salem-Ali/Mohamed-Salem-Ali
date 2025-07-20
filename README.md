@@ -1,25 +1,21 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Salem-Ali.Mohamed-Salem-Ali&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Salem-Ali.Mohamed-Salem-Ali&" />
 </div>
 
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/mohamed-salem-younes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/mohamed-salem-younes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mohamedsalemali18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:mohamedsalemali18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mohamed_salem_ali@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="mailto:mohamed_salem_ali@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="paypal.me/mohamedsalem99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  <a href="https://paypal.me/mohamedsalem99" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -83,18 +79,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
 </div>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Salem-Ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Salem-Ali&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Salem-Ali&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Salem-Ali&theme=dracula&column=5&row=4&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Salem-Ali&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Salem-Ali&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="180" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Mohamed-Salem-Ali/Mohamed-Salem-Ali/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Salem-Ali&theme=tokyo-night&area=true&hide_border=true" height="250" />
+</div>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Salem-Ali&theme=dracula&column=4&margin-w=10&margin-h=10&no-frame=true" height="180" />
+</div>
+
