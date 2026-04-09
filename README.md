@@ -89,6 +89,8 @@
   <img src="https://streak-stats.demolab.com?user=Mohamed-Salem-Ali&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="180" />
 </div>
 
+<img src="https://raw.githubusercontent.com/Mohamed-Salem-Ali/Mohamed-Salem-Ali/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Salem-Ali&theme=tokyo-night&area=true&hide_border=true" height="250" />
 </div>
