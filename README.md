@@ -94,8 +94,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Salem-Ali&theme=tokyo-night&area=true&hide_border=true" height="250" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Salem-Ali&theme=dracula&column=4&margin-w=10&margin-h=10&no-frame=true" height="180" />
-</div>
-
