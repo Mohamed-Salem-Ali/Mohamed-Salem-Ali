@@ -1,96 +1,86 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Mohamed Salem Younes</h1>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Salem-Ali.Mohamed-Salem-Ali&" />
-</div>
+<p align="center">
+  <b>Backend-focused software engineer</b> — Django · NestJS · PostgreSQL · AWS and GCP<br />
+  Cairo, Egypt · <b>open to freelance work</b>
+</p>
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/mohamed-salem-younes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.mohamedyounes.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=5457D6&logoColor=white&style=for-the-badge" height="25" alt="Portfolio: mohamedyounes.dev" />
   </a>
-  <a href="mailto:mohamedsalemali18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/mohamed-salem-younes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamed_salem_ali@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
-  <a href="https://paypal.me/mohamedsalem99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.mohamedyounes.dev/cv/mohamed-salem-younes-cv.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download%20CV&logo=readme&label=&color=087549&logoColor=white&style=for-the-badge" height="25" alt="Download my CV" />
   </a>
 </div>
 
-###
+## About
+
+I build and run production backends: multi-tenant SaaS, payments, async pipelines and AI features that stay up in
+production, not just on a laptop. Working professionally since 2022.
+
+- 🏢 **Software Engineer at [SaySoft](https://saysoft.tech)** (Dec 2025 – present): multi-tenant SaaS on NestJS, Prisma, PostgreSQL and React, deployed on AWS with Terraform.
+- 🏥 **Backend and Cloud Engineer at Tameni** (part-time, Jun 2025 – present): the Django backend behind a health app on Google Play, with an OCR + Gemini pipeline for lab reports.
+- 🧪 **My own products:** [DevReps](https://www.mohamedyounes.dev/projects/devreps), a software-engineering training platform with 700+ lessons, an AI tutor and spaced repetition.
+- 🤖 **Anthropic-certified** in Claude and Claude Code, and I use both daily to ship faster.
+
+## Selected work
+
+Every project has a full case study (problem, stack, the one decision that mattered) on my [portfolio](https://www.mohamedyounes.dev/projects).
+
+| Project | What it is | Stack | |
+|---|---|---|---|
+| **Opal** | Multi-branch SaaS for dental clinics. Tenant isolation enforced by PostgreSQL row-level security, 132 endpoints, 820+ tests | NestJS · Prisma · React | [Case study](https://www.mohamedyounes.dev/projects/opal) · [Site](https://opal.saysoft.tech/en) |
+| **Ittihad** | Building and compound union management for Egypt: dues, payments, disputes, votes, plus a RAG assistant | NestJS · PostgreSQL · pgvector · AWS ECS | [Case study](https://www.mohamedyounes.dev/projects/ittihad) · [Live](https://ittihad.saysoft.tech/) |
+| **Tameni** | Health-app backend that reads lab reports from photos through a five-stage matching engine | Django · Celery · Gemini · GCP | [Case study](https://www.mohamedyounes.dev/projects/tameni) · [Google Play](https://play.google.com/store/apps/details?id=com.tameniCorp.tameni) |
+| **Fleet Management** | Fleet SaaS with trips, invoicing and accounting; PDF reports via SQS and Lambda | NestJS · React · Terraform · AWS | [Case study](https://www.mohamedyounes.dev/projects/fleet-management) · [Live](https://fleet-mgt.saysoft.tech/) |
+| **Nuqta** | Live small-group tutoring for children with recorded video sessions | NestJS · Supabase · Jitsi | [Case study](https://www.mohamedyounes.dev/projects/nuqta) · [Live](https://nuqta-web.vercel.app/) |
+| **Mawid** | White-label clinic booking with an AI receptionist and WhatsApp reminders | NestJS · Next.js · Vercel AI SDK | [Case study](https://www.mohamedyounes.dev/projects/mawid) · [Live](https://mawid-web.vercel.app/) |
+| **DevReps** | Software-engineering training log: 700+ lessons, flashcards, AI tutor | Next.js · Supabase · Gemini | [Case study](https://www.mohamedyounes.dev/projects/devreps) |
+
+Most of this work lives in private repositories (client and employer code), so the case studies are the best way to see it.
+
+## Tech I work with
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="50" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="50" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cdjango%2Cnestjs%2Cts%2Creact%2Cpostgres%2Credis%2Cdocker%2Caws%2Cgcp%2Cterraform%2Cfirebase%2Cgit&perline=13&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python%2Cdjango%2Cnestjs%2Cts%2Creact%2Cpostgres%2Credis%2Cdocker%2Caws%2Cgcp%2Cterraform%2Cfirebase%2Cgit&perline=13&theme=dark" alt="Python, Django, NestJS, TypeScript, React, PostgreSQL, Redis, Docker, AWS, Google Cloud, Terraform, Firebase, Git" height="48" />
+  </picture>
 </div>
 
+<br />
+
+| Area | What I use |
+|---|---|
+| **Backend** | Python, Django REST Framework, NestJS, Prisma, Go, Celery |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Data** | PostgreSQL (row-level security, pgvector), Redis, Supabase, MongoDB |
+| **Cloud and DevOps** | AWS (ECS/Fargate, RDS, SQS, Lambda), GCP, Docker, Terraform, GitHub Actions, Nginx |
+| **AI** | Claude and Claude Code, Gemini, RAG, OCR pipelines (PaddleOCR, Tesseract) |
+
+## Certifications
+
+| Certificate | Issued by | Link |
+|---|---|---|
+| **Claude 101** | Claude Academy (Anthropic) · Sep 2026 | [Verify](https://academy.claude.com/verify/30c370bdc0e94466e37ba81bc4eea781) |
+| **Claude Code 101** | Claude Academy (Anthropic) · Sep 2026 | [Verify](https://academy.claude.com/verify/50c198665a43b5bf9415da58f8072769) |
+| **Claude Code in Action** | Anthropic Education · Apr 2026 | [Verify](https://verify.skilljar.com/c/dnuye3ixr9vb) |
+
+Plus AWS Cloud Practitioner Essentials, Meta Python and Version Control, and more. The full list is on my [portfolio](https://www.mohamedyounes.dev/#achievements).
+
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem-Ali&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Salem-Ali&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://raw.githubusercontent.com/Mohamed-Salem-Ali/Mohamed-Salem-Ali/output/snake.svg" alt="Contribution snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Salem-Ali&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="180" />
-</div>
-
-<img src="https://raw.githubusercontent.com/Mohamed-Salem-Ali/Mohamed-Salem-Ali/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Salem-Ali&theme=tokyo-night&area=true&hide_border=true" height="250" />
-</div>
+<p align="center">
+  Want to work together? <a href="https://www.mohamedyounes.dev/contact">Get in touch</a>, or ask my portfolio's AI assistant anything about my work.
+</p>
