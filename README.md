@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohamed-Salem-Ali/Mohamed-Salem-Ali/main/assets/msy-animated.svg" width="120" height="120" alt="MSY, the logo of Mohamed Salem Younes" />
+</p>
+
 <h1 align="center">Mohamed Salem Younes</h1>
 
 <p align="center">
