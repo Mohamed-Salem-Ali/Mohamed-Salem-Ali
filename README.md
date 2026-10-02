@@ -31,7 +31,7 @@ production, not just on a laptop. Working professionally since 2022.
 
 - 🏢 **Software Engineer at [SaySoft](https://saysoft.tech)** (Dec 2025 – present): multi-tenant SaaS on NestJS, Prisma, PostgreSQL and React, deployed on AWS with Terraform.
 - 🏥 **Backend and Cloud Engineer at Tameni** (part-time, Jun 2025 – present): the Django backend behind a health app on Google Play, with an OCR + Gemini pipeline for lab reports.
-- 🧪 **My own products:** [DevReps](https://www.mohamedyounes.dev/projects/devreps), a software-engineering training platform with 700+ lessons, an AI tutor and spaced repetition.
+- 🧪 **My own products:** [DevReps](https://www.mohamedyounes.dev/projects/devreps), a software-engineering training platform with 750+ lessons, an AI tutor and spaced repetition.
 - 🤖 **Anthropic-certified** in Claude and Claude Code, and I use both daily to ship faster.
 
 ## Selected work
@@ -46,7 +46,7 @@ Every project has a full case study (problem, stack, the one decision that matte
 | **Fleet Management** | Fleet SaaS with trips, invoicing and accounting; PDF reports via SQS and Lambda | NestJS · React · Terraform · AWS | [Case study](https://www.mohamedyounes.dev/projects/fleet-management) · [Live](https://fleet-mgt.saysoft.tech/) |
 | **Nuqta** | Live small-group tutoring for children with recorded video sessions | NestJS · Supabase · Jitsi | [Case study](https://www.mohamedyounes.dev/projects/nuqta) · [Live](https://nuqta-web.vercel.app/) |
 | **Mawid** | White-label clinic booking with an AI receptionist and WhatsApp reminders | NestJS · Next.js · Vercel AI SDK | [Case study](https://www.mohamedyounes.dev/projects/mawid) · [Live](https://mawid-web.vercel.app/) |
-| **DevReps** | Software-engineering training log: 700+ lessons, flashcards, AI tutor | Next.js · Supabase · Gemini | [Case study](https://www.mohamedyounes.dev/projects/devreps) |
+| **DevReps** | Software-engineering training log: 750+ lessons, flashcards, AI tutor | Next.js · Supabase · Gemini | [Case study](https://www.mohamedyounes.dev/projects/devreps) |
 
 Most of this work lives in private repositories (client and employer code), so the case studies are the best way to see it.
 
