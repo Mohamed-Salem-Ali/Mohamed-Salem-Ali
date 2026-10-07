@@ -31,7 +31,8 @@ production, not just on a laptop. Working professionally since 2022.
 
 - 🏢 **Software Engineer at [SaySoft](https://saysoft.tech)** (Dec 2025 – present): multi-tenant SaaS on NestJS, Prisma, PostgreSQL and React, deployed on AWS with Terraform.
 - 🏥 **Backend and Cloud Engineer at Tameni** (part-time, Jun 2025 – present): the Django backend behind a health app on Google Play, with an OCR + Gemini pipeline for lab reports.
-- 🧪 **My own products:** [DevReps](https://www.mohamedyounes.dev/projects/devreps), a software-engineering training platform with 750+ lessons, an AI tutor and spaced repetition.
+- 🧪 **My own products:** [DevReps](https://www.mohamedyounes.dev/projects/devreps), a software-engineering training platform with 750+ lessons, an AI tutor and spaced repetition; [Gameya](https://www.mohamedyounes.dev/projects/gameya), an Arabic-first app for running rotating savings circles; and [QamoosTech](https://www.mohamedyounes.dev/projects/qamoostech), a bilingual dictionary of 380+ software terms for Arabic-speaking engineers.
+- 📚 **Learning in public:** [python-backend-path](https://github.com/Mohamed-Salem-Ali/python-backend-path), a 12-week, ground-up path through Python, Django and FastAPI with self-checking exercises.
 - 🤖 **Anthropic-certified** in Claude and Claude Code, and I use both daily to ship faster.
 
 ## Selected work
@@ -47,6 +48,8 @@ Every project has a full case study (problem, stack, the one decision that matte
 | **Nuqta** | Live small-group tutoring for children with recorded video sessions | NestJS · Supabase · Jitsi | [Case study](https://www.mohamedyounes.dev/projects/nuqta) · [Live](https://nuqta-web.vercel.app/) |
 | **Mawid** | White-label clinic booking with an AI receptionist and WhatsApp reminders | NestJS · Next.js · Vercel AI SDK | [Case study](https://www.mohamedyounes.dev/projects/mawid) · [Live](https://mawid-web.vercel.app/) |
 | **DevReps** | Software-engineering training log: 750+ lessons, flashcards, AI tutor | Next.js · Supabase · Gemini | [Case study](https://www.mohamedyounes.dev/projects/devreps) |
+| **Gameya** | Rotating savings circles for family and friends. Members join with a 6-digit PIN and no account; the organiser records payments, turns and proofs of transfer | Next.js · PostgreSQL · Supabase | [Case study](https://www.mohamedyounes.dev/projects/gameya) · [Live](https://gameya-msa.vercel.app/) |
+| **QamoosTech** | Bilingual (Arabic and English) dictionary of 380+ software terms: definitions, workplace examples, common mistakes and audio pronunciation, with instant search | Next.js · static export · i18n | [Case study](https://www.mohamedyounes.dev/projects/qamoostech) · [Live](https://qamoostech.mohamedyounes.dev/en/) |
 
 Most of this work lives in private repositories (client and employer code), so the case studies are the best way to see it.
 
