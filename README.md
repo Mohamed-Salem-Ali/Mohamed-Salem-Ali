@@ -11,7 +11,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.mohamedyounes.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=5457D6&logoColor=white&style=for-the-badge" height="25" alt="Portfolio: mohamedyounes.dev" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=B0461F&logoColor=white&style=for-the-badge" height="25" alt="Portfolio: mohamedyounes.dev" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-salem-younes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
   <a href="https://www.mohamedyounes.dev/cv/mohamed-salem-younes-cv.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download%20CV&logo=readme&label=&color=087549&logoColor=white&style=for-the-badge" height="25" alt="Download my CV" />
+    <img src="https://img.shields.io/static/v1?message=Download%20CV&logo=readme&label=&color=2C6E44&logoColor=white&style=for-the-badge" height="25" alt="Download my CV" />
   </a>
 </div>
 
